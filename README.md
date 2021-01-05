@@ -188,4 +188,4 @@ Accuracy of your model is  91.0 %
 
 If you have had a problem or encountered a bug, do not hesitate to contact me: aljadd.mohammed@inemail.ine.inpt.ma
 
-I will be happy to receive feedback :blush: .
+I will be happy to receive a feedback :blush: .
