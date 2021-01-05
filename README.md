@@ -1,6 +1,6 @@
 # Binary logistic regression
 
-  Hello everyone, in this project we will implement binary logistic regression to predict whether someone is gonna be admitted or not based on two given exams score. This project will be divided into two parts. In the first part, we will code everything, so we will not use the Scikit learn library and we will write all the necessary functions like cost function or gradient descent. In the second part, we will use from Scikit learn library and you will see that the problem can be solved in a few lines of code.
+  Hello everyone, in this project we will implement linear binary logistic regression to predict whether someone is gonna be admitted or not based on two given exams score. This project will be divided into two parts. In the first part, we will code everything, so we will not use the Scikit learn library and we will write all the necessary functions like cost function or gradient descent. In the second part, we will use from Scikit learn library and you will see that the problem can be solved in a few lines of code.
   
   The implementation was done using Python. You will find the jupyter notebook version in this repository.
 
